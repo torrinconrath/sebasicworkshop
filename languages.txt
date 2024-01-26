@@ -1,0 +1,12 @@
+What is your favorite programming language? Why?
+
+I would say that my favorite is probably Python or HTML because of its versatility and abundance or cool things to do with it.
+Karin said Python is his favorite because it is the easiest and its syntax is very clean.
+
+Is your favorite language the one you are also most experienced with? If not, which language are you most experienced with?
+
+I have a lot more experience with Java, but due to my recent projects I might be more profecient at Python and HTML
+Karin said Python is probably the programming language he has the most experience with. 
+
+
+ 
